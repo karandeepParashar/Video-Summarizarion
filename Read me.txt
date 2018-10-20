@@ -1,0 +1,4 @@
+# USAGE
+# python save_key_events.py --output output
+# python motion_detector.py
+# python motion_detector.py --video videos/example_01.mp4
